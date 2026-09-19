@@ -1,0 +1,6 @@
+{
+  "name": "Indian Freedom Fighters (1857–1947)",
+  "description": "An interactive historical showcase and chronological timeline of Indian freedom fighters who shaped the independence movement from 1857 to 1947.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
